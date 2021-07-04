@@ -1,3 +1,7 @@
+# Youtube Video Search
+
+This app can search for any keywords in youtube and list matching videos and play the selected video.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
